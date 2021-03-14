@@ -1,6 +1,13 @@
 # generadoripv4-python
 Un script sencillo , que genera direciones ipv4 (no verificado si son validas) donde puedes decidir si guardar o no las ip en un archivo 
 
+# Librerias Usadas
+```bash
+Package       Version
+------------- -------
+click         7.1.2 
+```
+
 ```bash
 >> python main.py --save 
 Cantidad de IPs a generar:12
